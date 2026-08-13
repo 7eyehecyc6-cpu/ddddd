@@ -1,0 +1,10 @@
+{
+  "name": "ddddd",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node 8.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0"
+  }
+}
